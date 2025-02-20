@@ -3,13 +3,13 @@
 
 The Library Management System (LMS) is designed to automate and streamline library operations, replacing manual processes with a digital platform. The system facilitates:
 
-Book cataloging
+1) Book cataloging
 
-User management
+2) User management
 
-Borrowing and returning of books
+3)Borrowing and returning of books
 
-Fine calculation for overdue books
+4)Fine calculation for overdue books
 
 This project aims to improve efficiency and provide a seamless experience for librarians and users alike.
 
@@ -27,13 +27,13 @@ This project aims to improve efficiency and provide a seamless experience for li
 
 🛠️ Technologies Used
 
-Backend: Python (Django/Flask) or Node.js (Express)
+1) Backend: Python (Django/Flask) or Node.js (Express)
 
-Frontend: React.js / Vue.js / HTML, CSS, JavaScript
+2) Frontend: React.js / Vue.js / HTML, CSS, JavaScript
 
-Database: PostgreSQL / MySQL / MongoDB
+3) Database: PostgreSQL / MySQL / MongoDB
 
-Authentication: JWT / OAuth
+4) Authentication: JWT / OAuth
 
-Deployment: Docker / AWS / Heroku
+5) Deployment: Docker / AWS / Heroku
 
