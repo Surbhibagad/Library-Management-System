@@ -7,9 +7,9 @@ The Library Management System (LMS) is designed to automate and streamline libra
 
 2) User management
 
-3)Borrowing and returning of books
+3) Borrowing and returning of books
 
-4)Fine calculation for overdue books
+4) Fine calculation for overdue books
 
 This project aims to improve efficiency and provide a seamless experience for librarians and users alike.
 
