@@ -1,7 +1,7 @@
 # Library-Management-System
 📚 Overview
 
-# The Library Management System (LMS) is designed to automate and streamline library operations, replacing manual processes with a digital platform. The system facilitates:
+The Library Management System (LMS) is designed to automate and streamline library operations, replacing manual processes with a digital platform. The system facilitates:
 
 1) Book cataloging
 
