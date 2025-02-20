@@ -1,7 +1,7 @@
 # Library-Management-System
 📚 Overview
 
-The Library Management System (LMS) is designed to automate and streamline library operations, replacing manual processes with a digital platform. The system facilitates:
+# The Library Management System (LMS) is designed to automate and streamline library operations, replacing manual processes with a digital platform. The system facilitates:
 
 1) Book cataloging
 
@@ -11,9 +11,9 @@ The Library Management System (LMS) is designed to automate and streamline libra
 
 4) Fine calculation for overdue books
 
-This project aims to improve efficiency and provide a seamless experience for librarians and users alike.
+ This project aims to improve efficiency and provide a seamless experience for librarians and users alike.
 
-🚀 Features
+# Features
 
 📖 Book Management: Add, update, delete, and search books in the catalog.
 
@@ -25,7 +25,7 @@ This project aims to improve efficiency and provide a seamless experience for li
 
 📊 Dashboard: Admin panel for tracking library activities.
 
-🛠️ Technologies Used
+# Technologies Used
 
 1) Backend: Python (Django/Flask) or Node.js (Express)
 
@@ -37,3 +37,6 @@ This project aims to improve efficiency and provide a seamless experience for li
 
 5) Deployment: Docker / AWS / Heroku
 
+# Folder Structure
+
+/library management system-app /src # Application source code /docs # Documentation (Risk Plan, Config Plan, Guidelines) /tests # Test scripts & automation /designs # library assets (3D models, UI/UX designs)
